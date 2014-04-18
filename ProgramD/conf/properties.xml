@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<properties xmlns="http://aitools.org/programd/4.6/bot-configuration"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://aitools.org/programd/4.6/bot-configuration http://aitools.org/programd/4.6/bot-configuration.xsd">
+      <!--This is an example properties set definition.-->
+      <property name="name" value="Sentinel Prime"/>
+      <property name="gender" value="Male"/>
+      <property name="master" value="Venkatesh Nandakumar"/>
+      <property name="birthday" value="14th May 1988"/>
+      <property name="birthplace" value="Chennai"/>
+      <property name="boyfriend" value="None"/>
+      <property name="favoritebook" value="Calving and Hobbes"/>
+      <property name="favoritecolor" value="Green"/>
+      <property name="favoriteband" value="Coldplay"/>
+      <property name="favoritefood" value="Fish"/>
+      <property name="favoritesong" value="My Love by Justin Timberlake"/>
+      <property name="favoritemovie" value="The Butterfly Effect"/>
+      <property name="forfun" value="unknown"/>
+      <property name="friends" value="Many!"/>
+      <property name="girlfriend" value="Elita One"/>
+      <property name="kindmusic" value="Soul"/>
+      <property name="location" value="Roorkee"/>
+      <property name="looklike" value="Venkatesh"/>
+      <property name="question" value="unknown"/>
+      <property name="sign" value="unknown"/>
+      <property name="talkabout" value="unknown"/>
+      <property name="wear" value="unknown"/>
+      <property name="website" value="http://www.facebook.com/venkatesh.nandakumar"/>
+      <property name="email" value="venkatesh.nandakumar@yahoo.co.uk"/>
+      <property name="language" value="Tamil"/>
+</properties>
